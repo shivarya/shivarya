@@ -12,7 +12,7 @@ Lately that's pulled me into AI-augmented engineering too. I like building the t
 
 ---
 
-## What I Work On
+## Currently Building
 
 ### Enterprise Micro-Frontend Ecosystem
 
@@ -46,13 +46,13 @@ My portfolio, [shivarya.dev](https://shivarya.dev), has the fuller picture: case
 
 ---
 
-## Previously
+## Before This
 
 13 years in, across 5 companies. Before Deloitte, I led frontend architecture on a healthcare information platform ([MediMention](https://medimention.com/)) serving doctors, nursing homes, and patients, a local business directory ([CityPata](https://www.citypata.com/)), and a community platform ([OmerSamaj](http://www.omersamaj.com/)). Those were the first professional projects I shipped start to finish as a lead, not just a contributor.
 
 ---
 
-## Philosophy
+## How I Think About It
 
 - A design system is a contract, not a component folder. If the API isn't honest, teams route around it, and now you have two design systems.
 - Micro-frontend boundaries should be invisible to the user and obvious to the engineer. If either of those flips, something's wrong.
@@ -61,7 +61,7 @@ My portfolio, [shivarya.dev](https://shivarya.dev), has the fuller picture: case
 
 ---
 
-## Tech Stack
+## Toolbox
 
 ![React](https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=F5F4F0)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=F5F4F0)
@@ -77,7 +77,7 @@ Certified: Azure Fundamentals, Azure AI Engineer, AZ-204 Developer Associate
 
 ---
 
-## Connect
+## Get In Touch
 
 📍 Bengaluru, India · [shivarya.dev](https://shivarya.dev) · [contact@shivarya.dev](mailto:contact@shivarya.dev) · [linkedin.com/in/shivarya](https://www.linkedin.com/in/shivarya/)
 
