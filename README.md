@@ -1,3 +1,9 @@
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=F5F4F0&text=ASHISH%20TRIPATHI&fontColor=0A0A0A&fontSize=36&fontAlignY=50" width="100%" alt="Ashish Tripathi" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=0A0A0A&background=F5F4F0&center=true&vCenter=true&width=600&lines=Frontend+Architect;Micro-Frontend+Engineer;AI+Systems+Builder;Design+System+Architect" alt="Typing SVG" />
+</p>
+
 # Ashish Tripathi
 
 Frontend Architect. I think about interfaces the way an architect thinks about buildings: structure first, finish second. Most of my work sits at the intersection of UI/UX and systems design, how a design language survives contact with a dozen teams, how a component API stays honest as a product scales, how the seams between micro-frontends disappear for the person actually using the product.
@@ -57,7 +63,15 @@ My portfolio, [shivarya.dev](https://shivarya.dev), has the fuller picture: case
 
 ## Tech Stack
 
-`React` · `TypeScript` · `Module Federation` · `Redux Toolkit` · `React Native` · `PHP` · `Claude Agent SDK` · `MCP` · `Azure DevOps` · `SCSS` / Design Tokens
+![React](https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=F5F4F0)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=F5F4F0)
+![React Native](https://img.shields.io/badge/React%20Native-0A0A0A?style=flat-square&logo=react&logoColor=F5F4F0)
+![Module Federation](https://img.shields.io/badge/Module%20Federation-0A0A0A?style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-0A0A0A?style=flat-square&logo=php&logoColor=F5F4F0)
+![Claude](https://img.shields.io/badge/Claude%20Agent%20SDK-0A0A0A?style=flat-square&logo=anthropic&logoColor=F5F4F0)
+![MCP](https://img.shields.io/badge/MCP-0A0A0A?style=flat-square)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0A0A0A?style=flat-square&logo=azuredevops&logoColor=F5F4F0)
+![SCSS](https://img.shields.io/badge/SCSS-0A0A0A?style=flat-square&logo=sass&logoColor=F5F4F0)
 
 Certified: Azure Fundamentals, Azure AI Engineer, AZ-204 Developer Associate
 
